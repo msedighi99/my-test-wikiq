@@ -1,0 +1,13 @@
+Lorem ipsum, dolor sit amet consectetur adipisicing elit. 
+Necessitatibus tempore corrupti iste explicabo itaque illum sed eos quis 
+provident, enim perspiciatis praesentium accusantium mollitia 
+numquam fugiat quae, aliquid similique! Optio?
+
+this is test master
+
+this is test faeture-wikiq
+this is new test for git diff
+
+this is test for git diff HEAD
+
+this is testing for .gitignore File
